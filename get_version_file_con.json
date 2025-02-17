@@ -13,6 +13,11 @@
     "version":1.3,
     "work_version":[1.3], 
     "note":"Tool siêu lỏ"
+  },
+  "tds_tiktok":{
+    "version":1.0,
+    "work_version":[1.0], 
+    "note":"Tool siêu lỏ"
   }
   
 }
