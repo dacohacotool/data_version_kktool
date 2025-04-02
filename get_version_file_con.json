@@ -16,7 +16,7 @@
   },
    "golike_aio":{
     "version":1.9,
-    "work_version":[1.8,1.9],
+    "work_version":[1.9,2.0],
     "note":"Tool siêu lỏ"
   },
    "golike_threads":{
