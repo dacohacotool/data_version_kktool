@@ -1,7 +1,7 @@
 {
   "main":{
-    "version":2.0,
-    "work_version":[2.2, 2.0, 2.1],
+    "version":2.1,
+    "work_version":[2.2, 2.3, 2.1],
     "note":"Tool siêu lỏ"
   },
   "golike_adb_tiktok":{
