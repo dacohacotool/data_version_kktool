@@ -4,7 +4,11 @@
     "work_version":[2.2, 2.3, 2.1],
     "note":"Tool siêu lỏ"
   },
-  "module":0,
+  "module":{
+    "version":1.4,
+    "work_version":[1.4],
+    "note":"Tool siêu lỏ"
+  },
   "golike_adb_tiktok":{
     "version":1.4,
     "work_version":[1.4],
