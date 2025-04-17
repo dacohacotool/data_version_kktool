@@ -5,8 +5,8 @@
     "note":"Tool siêu lỏ"
   },
   "module":{
-    "version":6,
-    "work_version":[6,7,8,9],
+    "version":7,
+    "work_version":[10,7,8,9],
     "note":"Cập nhập để nâng cao trải nghiệm"
   },
   "golike_adb_tiktok":{
