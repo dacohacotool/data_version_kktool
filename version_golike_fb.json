@@ -1,0 +1,12 @@
+{
+  "main":{
+    "version":1.0,
+    "work_version":[1.0, 1.1, 1.2],
+    "note":"Tool siêu lỏ"
+  },
+  "module":{
+    "version":1,
+    "work_version":[1,2,3,4],
+    "note":"Cập nhập để nâng cao trải nghiệm"
+  }
+}
