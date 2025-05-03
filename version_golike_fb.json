@@ -5,8 +5,8 @@
     "note":"Tool siêu lỏ"
   },
   "module":{
-    "version":4,
-    "work_version":[5,6,7,4],
+    "version":5,
+    "work_version":[5,6,7,8],
     "note":"Cập nhập để nâng cao trải nghiệm"
   }
 }
