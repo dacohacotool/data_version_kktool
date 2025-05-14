@@ -1,12 +1,12 @@
 {
   "main":{
-    "version":1.4,
-    "work_version":[1.6, 1.4, 1.5],
+    "version":1.5,
+    "work_version":[1.6, 1.7, 1.5],
     "note":"Tool siêu lỏ"
   },
   "module":{
-    "version":10,
-    "work_version":[13,10,11,12],
+    "version":11,
+    "work_version":[13,14,11,12],
     "note":"Cập nhập để nâng cao trải nghiệm"
   }
 }
