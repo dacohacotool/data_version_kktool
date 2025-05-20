@@ -1,12 +1,12 @@
 {
   "main":{
-    "version":2.6,
+    "version":2.7,
     "work_version":[2.8, 2.6, 2.7],
     "note":"Tool siêu lỏ"
   },
   "module":{
-    "version":11,
-    "work_version":[14,11,12,13],
+    "version":12,
+    "work_version":[14,15,12,13],
     "note":"Cập nhập để nâng cao trải nghiệm"
   },
   "golike_adb_tiktok":{
